@@ -1,0 +1,18 @@
+{
+  "name": "cryptotokens",
+  "version": "0.1.0",
+  "description": "Me experimenting in the field of cryptocurrency tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamMuzz/CryptoTokens.git"
+  },
+  "author": "Adam Muzzarelli",
+  "homepage": "https://github.com/AdamMuzz/CryptoTokens#readme",
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
